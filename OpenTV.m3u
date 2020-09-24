@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 ,====== 央视,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,CCTV-1
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
+#EXTINF:-1 ,CCTV-2
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
+#EXTINF:-1 ,CCTV-3
+http://112.17.40.145/PLTV/88888888/224/3221226431/index.m3u8
+#EXTINF:-1 ,CCTV-4
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
+#EXTINF:-1 ,CCTV-5
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1 ,CCTV-6
+http://112.17.40.145/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1 ,CCTV-7
+http://112.17.40.145/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://112.17.40.145/PLTV/88888888/224/3221226493/index.m3u8
+#EXTINF:-1 ,CCTV-9
+http://112.17.40.145/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1 ,CCTV-10
+http://112.17.40.145/PLTV/88888888/224/3221226498/index.m3u8
+#EXTINF:-1 ,CCTV-11
+http://112.17.40.145/PLTV/88888888/224/3221226219/index.m3u8
+#EXTINF:-1 ,CCTV-12
+http://112.17.40.145/PLTV/88888888/224/3221226520/index.m3u8
+#EXTINF:-1 ,CCTV-14
+http://112.17.40.145/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://112.17.40.145/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 ,央视高尔夫
+http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
+#EXTINF:-1 ,====== 地方卫视,#genre ======
+http://1/1.m3u8
+#EXTINF:-1 ,北京卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+#EXTINF:-1 ,东方卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8
+#EXTINF:-1 ,湖南卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8
+#EXTINF:-1 ,浙江卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+#EXTINF:-1 ,江苏卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 ,深圳卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+#EXTINF:-1 ,黑莓电竞
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+#EXTINF:-1 ,黑莓动画
+http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
+#EXTINF:-1 ,黑莓电影
+http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+#EXTINF:-1 ,Baby Talent高清
+http://112.17.40.145/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1 ,杭州文化
+http://112.17.40.145/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 ,杭州影视
+http://112.17.40.145/PLTV/88888888/224/3221226186/index.m3u8
+#EXTINF:-1 ,育科技HD
+http://112.17.40.145/PLTV/88888888/224/3221226414/index.m3u8
+#EXTINF:-1 ,====== 宁夏频道,#genre ======
+http://2/2.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=cd7aee341601099306
+#EXTINF:-1 ,宁夏公共
+http://stream.nxtv.com.cn/ggpd/sd/live.m3u8?_upt=634823b71601099602
+#EXTINF:-1 ,宁夏经济
+http://stream.nxtv.com.cn/jjpd/sd/live.m3u8?_upt=1579e6461601099712
+#EXTINF:-1 ,====== 大学频道,#genre#  ======
+http://5/5.m3u8
+#EXTINF:-1 ,清华大学电视台
+http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
