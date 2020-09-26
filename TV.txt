@@ -1,75 +1,366 @@
-#EXTM3U
-#EXTINF:-1 ,====== 央视 ======
-http://0/0.m3u8
-#EXTINF:-1 ,CCTV-1
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
-#EXTINF:-1 ,CCTV-2
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-#EXTINF:-1 ,CCTV-3
-http://112.17.40.145/PLTV/88888888/224/3221226431/index.m3u8
-#EXTINF:-1 ,CCTV-4
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
-#EXTINF:-1 ,CCTV-5
-http://112.17.40.145/PLTV/88888888/224/3221226328/index.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-#EXTINF:-1 ,CCTV-6
-http://112.17.40.145/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 ,CCTV-7
-http://112.17.40.145/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://112.17.40.145/PLTV/88888888/224/3221226493/index.m3u8
-#EXTINF:-1 ,CCTV-9
-http://112.17.40.145/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 ,CCTV-10
-http://112.17.40.145/PLTV/88888888/224/3221226498/index.m3u8
-#EXTINF:-1 ,CCTV-11
-http://112.17.40.145/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 ,CCTV-12
-http://112.17.40.145/PLTV/88888888/224/3221226520/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://112.17.40.145/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 ,CCTV-15
-http://112.17.40.145/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 ,央视高尔夫
-http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
-#EXTINF:-1 ,====== 地方卫视 ======
-http://1/1.m3u8
-#EXTINF:-1 ,北京卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-#EXTINF:-1 ,东方卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8
-#EXTINF:-1 ,湖南卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8
-#EXTINF:-1 ,浙江卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 ,江苏卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 ,深圳卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-#EXTINF:-1 ,黑莓电竞
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
-#EXTINF:-1 ,黑莓动画
-http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-#EXTINF:-1 ,Baby Talent高清
-http://112.17.40.145/PLTV/88888888/224/3221226142/index.m3u8
-#EXTINF:-1 ,杭州文化
-http://112.17.40.145/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 ,杭州影视
-http://112.17.40.145/PLTV/88888888/224/3221226186/index.m3u8
-#EXTINF:-1 ,育科技HD
-http://112.17.40.145/PLTV/88888888/224/3221226414/index.m3u8
-#EXTINF:-1 ,====== 宁夏频道 ======
-http://2/2.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=cd7aee341601099306
-#EXTINF:-1 ,宁夏公共
-http://stream.nxtv.com.cn/ggpd/sd/live.m3u8?_upt=634823b71601099602
-#EXTINF:-1 ,宁夏经济
-http://stream.nxtv.com.cn/jjpd/sd/live.m3u8?_upt=1579e6461601099712
-#EXTINF:-1 ,====== 大学频道 ======
-http://5/5.m3u8
-#EXTINF:-1 ,清华大学电视台
-http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
+#EXTM3U url-tvg=http://epg.51zmt.top8000e.xml
+#EXTM3U x-tvg-url=http://epg.51zmt.top8000e.xml
+
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 頭條新聞
+http://srthkvod1-vh.akamaihd.netimp4tv2020HELXCT2020M04600019.smilmaster.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 央视每日天气预报
+http://942dn.cnindex.phpid=1
+#EXTINF-1 tvg-id= tvg-logo=http://www.tvyan.comuploadsdianshiqinzhou.jpg group-title=特別, 欽州綜合
+http://live.gxqztv.comcspd1sdlive.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sgitee.comqarclubplaylistrawmasterlogogx-lsdst.JPG group-title=特別, 靈山電視臺
+http://live.mudu.tvwatchw0gec5.m3u8
+#EXTINF-1 tvg-id=7125 tvg-name=珠江頻道 tvg-logo=http://epg.51zmt.top8000tb1gtzhujiang.png group-title=特別,廣東珠江
+http://nclive.grtn.cnzjpdsdlive.m3u8
+#EXTINF-1 tvg-id=106 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV4k.png group-title=特別, CCTV4K 超高清
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000266303.m3u8
+#EXTINF-1 tvg-id= tvg-name= tvg-logo=http://si.loli.net20191126wSAQpGh7ikfvMKq.jpg group-title=特別,純享4K
+http://ott.fj.chinamobile.comPLTV888888882243221226825index.m3u8
+#EXTINF-1 tvg-id=6241 tvg-logo=http://www.tvyan.comuploadsdianshichchd.jpg   group-title=特別, CHC高清電影
+#	
+#EXTINF-1 tvg-id=6245 tvg-logo=http://www.tvyan.comuploadsdianshichcdzdy.jpg   group-title=特別, CHC動作電影
+#
+#EXTINF-1 tvg-id=2060 tvg-logo=http://www.tvyan.comuploadsdianshiemeidianying.jpg   group-title=特別, 峨眉電影
+http://scgctvshow.sctv.comhdliveemei1.m3u8
+#EXTINF-1 tvg-id=6083 tvg-logo=http://www.tvyan.comuploadsdianshihbohd.jpg group-title=特別, HBOHD
+http://aldirect.rtmp.huya.comhuyalive29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF-1 tvg-id=141 tvg-logo=http://www.tvyan.comuploadsdianshifhzwt.jpg group-title=特別, 鳳凰中文
+http://liveali.ifeng.comliveFHZW.m3u8
+#EXTINF-1 tvg-id=142 tvg-logo=http://www.tvyan.comuploadsdianshifhzxt.jpg group-title=特別, 鳳凰資訊
+http://liveali.ifeng.comliveFHZX.m3u8
+#EXTINF-1 tvg-id=143 tvg-logo=http://epg.51zmt.top8000tb1gtfenghuangxianggang.png group-title=特別, 鳳凰香港
+http://223.82.250.72livefhhongkong1.m3u8
+######### 臨時 ###################################################################
+#EXTINF-1 tvg-id=126 tvg-logo=http://www.tvyan.comuploadsdianshijade.jpg group-title=特別, 翡翠臺
+http://sapp.kds.twlivetvb1.phpid=jade&u=123456
+#EXTINF-1 tvg-id=416 tvg-logo=http://www.tvyan.comuploadsdianshitvb-j2.jpg group-title=特別,J2
+http://sapp.kds.twlivetvb1.phpid=j2&u=123456
+#EXTINF-1 tvg-id=127 tvg-logo=http://www.tvyan.comuploadsdianshipearl.jpg group-title=特別, 明珠臺
+http://sapp.kds.twlivetvb1.phpid=pearl&u=123456
+#EXTINF-1 tvg-id=130 tvg-logo=http://www.tvyan.comuploadsdianshitvb-news.jpg group-title=特別, 無線新聞
+http://sapp.kds.twlivetvb1.phpid=inews&u=97058412
+#EXTINF-1 tvg-id= tvg-logo=http://www.tvyan.comuploadsdianshinownews.jpg group-title=特別, Now332新聞臺
+# http://sewcdnsite09.nowe.comsession09-a7811d738a9a8932ec527b60355ceContentHLSLIVEChannel(HLS_CH332)index.m3u8
+# http://hdtv.ubdata.infoublivea7b5cbb14da05762b9fa751a2d905691index.m3u8
+http://1965.qwl1965.topwei2020wy.phpid=16
+#EXTINF-1 tvg-id= tvg-logo=http://www.tvyan.comuploadsdianshinowzhibo.jpg group-title=特別, Now331直播臺
+http://sewcdnsite01.nowe.comsession09-3c55fc26ddb115236c45cbeaa5b78ContentHLSLIVEChannel(HLS_CH331)index.m3u8
+#EXTINF-1 tvg-id=7239 tvg-logo=http://epg.51zmt.top8000tb1gthongkong603.png group-title=特別, 有線603
+# rtmp112.30.135.401935live-zb.nanhailong.comlivech215
+rtmp175.6.228.31935live302
+#EXTINF-1 tvg-id=7122 tvg-logo=http://www.tvyan.comuploadsdianshicabletv109.jpg group-title=特別, 有線新聞臺
+http://103.140.229.13zbtvzxxg.phpid=31&xl=1
+#EXTINF-1 tvg-id=7122 tvg-logo=http://www.tvyan.comuploadsdianshicabletv109.jpg group-title=特別, 有線新聞臺
+http://mott.cdn.cmi.chinamobile.comlivehlsMOB-SCCindex.m3u8
+#EXTINF-1 tvg-id=7122 tvg-logo=http://www.tvyan.comuploadsdianshicabletv109.jpg group-title=特別, 有線新聞臺
+http://sottproxy2.mott.tvlivehlsMOB-SCCindex.m3u8
+#EXTINF-1 tvg-id=7122 tvg-logo=http://www.tvyan.comuploadsdianshicabletv109.jpg group-title=特別, 有線新聞臺
+http://sottproxy2.mott.tvlivehlsMOB-NGWindex.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://snettvss.liveuploadsallimg201-20030PZH60-L.jpg group-title=特別, C+頻道
+http://sottproxy2.mott.tvlivehlscmiMOB-U1-NOindex.m3u8
+#EXTINF-1 tvg-id= tvg-name= tvg-logo=http://epg.51zmt.top8000tb1gtTVB%E6%98%9F%E6%B2%B3.png group-title=特別,TVB星河频道（粵語）
+http://s116.77.72.195streamsdtvbxhplaylist.m3u8
+#EXTINF-1 tvg-id= tvg-name= tvg-logo=http://epg.51zmt.top8000tb1gtTVB%E6%98%9F%E6%B2%B3.png group-title=特別,TVB星河频道（國語）
+http://pull-flv-l1.ixigua.comgamech0040.flv
+#EXTINF-1 logo= group-title=特別 ,美亚香港台
+http://120.233.49.41rbaiducdnct.inter.iqiyi.comtslivec15_lb_jingdianguangpian_1080p_t10c15_lb_jingdianguangpian_1080p_t10.m3u8
+#EXTINF-1 logo= group-title=特別 ,美亚香港台
+http://ucloud-plt.ucloud.com.cnbaiducdnct.inter.iqiyi.comtslivec15_lb_jingdianguangpian_1080p_t10c15_lb_jingdianguangpian_1080p_t10.m3u8
+############################################################################
+#EXTINF-1 tvg-id=6072  tvg-logo=http://www.tvyan.comuploadsdianshisetxinwen.jpg group-title=特別, 三立新聞
+http://60.199.188.65HLSWG_ETTV-N01.m3u8
+#EXTINF-1 tvg-id=6073 tvg-logo=http://www.tvyan.comuploadsdianshitvbs.jpg group-title=特別, TVBS新聞臺
+http://60.199.188.65HLSWG_TVBS-N01.m3u8
+#EXTINF-1 tvg-id=6171 tvg-logo=http://www.tvyan.comuploadsdianshihuanyuxinwen.jpg group-title=特別, 環宇新聞臺
+http://192.200.120.828080ZZ_huanyuxinwenZZ_huanyuxinwen.m3u8
+#EXTINF-1 tvg-id=6070  tvg-logo=http://www.tvyan.comuploadsdianshictinews.jpg group-title=特別, 中天新聞
+http://192.200.120.828080ZZ_zhongtiannewsZZ_zhongtiannews.m3u8
+#EXTINF-1 tvg-id=6054  tvg-logo=http://www.tvyan.comuploadsdianshictitv.jpg group-title=特別, 中天綜合
+http://192.200.120.828080ZZ_zhongtianzongheZZ_zhongtianzonghe.m3u8
+#EXTINF-1 tvg-id=6057  tvg-logo=http://www.tvyan.comuploadsdianshictiyl.jpg group-title=特別, 中天娛樂
+http://192.200.120.828080ZZ_zhongtianyuleZZ_zhongtianyule.m3u8
+#EXTINF-1 tvg-id=6069 tvg-logo=http://www.tvyan.comuploadsdianshietnews.jpg group-title=特別, 東森新聞臺
+http://192.200.120.828080ZZ_dongsenxinwenZZ_dongsenxinwen.m3u8
+#EXTINF-1 tvg-id=6080  tvg-logo=http://tv.sason.xyzlogodsdy.png group-title=特別, 東森電影
+http://192.200.120.828080ZZ_dongsendianyingZZ_dongsendianying.m3u8
+#EXTINF-1 tvg-id=6039 tvg-logo=http://www.tvyan.comuploadsdianshidongwuxingqiu.jpg group-title=特別, 動物星球
+http://192.200.120.828080ZZ_dongwuxingqiuZZ_dongwuxingqiu.m3u8
+#EXTINF-1 tvg-id=6149 tvg-logo=http://pix1.tvzhe.comimageslogochannelWARNER-TVWARNER-TV.jpg group-title=特別, WarnerTV
+http://192.200.120.828080ZZ_huanadianyingZZ_huanadianying.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://www.tvyan.comuploadsdianshilstime.jpg group-title=特別, 龍祥時代電影臺
+http://192.200.120.828080ZZ_shidaiZZ_shidai.m3u8
+#EXTINF-1 tvg-id=6086 tvg-logo=http://www.tvyan.comuploadsdianshihollywood.jpg group-title=特別, 好萊塢電影臺
+http://192.200.120.828080ZZ_haolaiwuZZ_haolaiwu.m3u8
+#EXTINF-1 tvg-id=870  tvg-logo=http://tv.sason.xyzlogofoxac.png group-title=特別, Fox Action Movie
+http://192.200.120.828080ZZ_foxactionZZ_foxaction.m3u8
+#####################################
+#EXTINF-1 tvg-id=126 tvg-logo=http://www.tvyan.comuploadsdianshijade.jpg group-title=特別, 翡翠臺［廣電標清］
+http://116.199.5.518114index.m3u8Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF-1 tvg-id=126 tvg-logo=http://www.tvyan.comuploadsdianshijade.jpg group-title=特別, 翡翠臺
+http://183.238.77.99090livexgfeicui_1500.m3u8
+#EXTINF-1 tvg-id=7118 group-title=特別, 香港開電視
+http://media.fantv.hkm3u8archivechannel2.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://t.cnAi8PE1IM group-title=特別, 香港01新聞直播
+http://slive.cdn.hk01.comoriginsmil01news.smilplaylist.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺RTHK31［香港IP］
+http://swww.rthk.hkfeedsdttrthktv31_http://s.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺RTHK32
+http://swww.rthk.hkfeedsdttrthktv32_http://s.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺R1FM926
+http://srthkaudio1-lh.akamaihd.netiradio1_1@355864master.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺R2FM948
+http://srthkaudio2-lh.akamaihd.netiradio2_1@355865master.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺R3AM567
+http://srthkaudio3-lh.akamaihd.netiradio3_1@355866master.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺R4FM976
+http://srthkaudio4-lh.akamaihd.netiradio4_1@355867master.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺R5AM783
+http://srthkaudio5-lh.akamaihd.netiradio5_1@355868master.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺R6CNR_香港之聲
+http://srthkaudio6cnr-lh.akamaihd.netiradio6cnr_1@575604master.m3u8
+#EXTINF-1 tvg-id= tvg-logo= group-title=特別, 香港電臺普通話臺AM621
+http://srthkaudio6-lh.akamaihd.netiradiopth_1@355869master.m3u8
+################### 澳門 ##############################################
+#EXTINF-1 tvg-id= tvg-logo=http://www.tvyan.comuploadsdianshiaomenyouxian1.jpg group-title=特別, 澳門有線第壹臺
+http://202.175.127.77liveshowch1index.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://www.tvyan.comuploadsdianshiaomenhudongxinwen.jpg group-title=特別, 澳門有線互動新聞
+http://202.175.127.77liveshowch2index.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://nettv.liveuploadsallimg201-2001032102310-L.jpg group-title=特別, 澳門有線第三臺
+http://202.175.127.77liveshowch3index.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://www.tvyan.comuploadsdianshiaomenyouxian33.jpg group-title=特別, 澳門有線33臺
+#EXTINF-1 tvg-id= tvg-logo=http://nettv.liveuploads181-1P5091F501151.jpg group-title=特別, 澳門衛視
+http://stream.mastvnet.comMSTVSDlive.m3u8
+#EXTINF-1 tvg-id=476 tvg-logo=http://nettv.liveuploads181-1P5121TS0225.jpg group-title=特別, 澳亞衛視
+http://stream.mastvnet.comMASTVsdlive.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://nettv.liveuploads181-1P5121Q245326.jpg group-title=特別,澳門體育
+http://103.233.191.13880ch4sport_ch4.liveplaylist.m3u8
+# http://103.233.191.138ch4sport_ch4.livemaster.m3u
+#EXTINF-1 tvg-id= tvg-logo=http://nettv.liveuploads181-1P420213339416.jpg group-title=特別, 蓮花衛視
+http://live-hls.macaulotustv.comlotustv5562e9e4d409d24c9600075c.m3u8
+# http://www.lotustv.ccindex.phpindexlive.html
+
+################### 央視頻 代理##############################################
+#	http://140.249.30.40tlivecloud-cdn.ysp.cctv.cn0012000266303.m3u8
+#	http://111.0.27.28tlivecloud-cdn.ysp.cctv.cn0012000266303.m3u8
+#	http://120.204.20.147tlivecloud-cdn.ysp.cctv.cn0012000266303.m3u8
+#	http://live-wcloud-cdn.ysp.cctv.cntlivecloud-cdn.ysp.cctv.cn0012000266303.m3u8
+# http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000266303.m3u8
+#	央視
+#EXTINF-1 tvg-id=106 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV4k.png   group-title=央視, CCTV4K 超高清
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000266303.m3u8
+#EXTINF-1 tvg-id=1 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV1.png   group-title=央視, CCTV-1 綜合
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000210103.m3u8
+#EXTINF-1 tvg-id=2 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV2.png   group-title=央視, CCTV-2 財經
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000203603.m3u8
+#EXTINF-1 tvg-id=3 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV3.png   group-title=央視, CCTV-3 綜藝
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000203803.m3u8
+#EXTINF-1 tvg-id=4 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV4.png   group-title=央視, CCTV-4 中文國際
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000204803.m3u8
+#EXTINF-1 tvg-id=5 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV5.png   group-title=央視, CCTV-5 體育
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000205103.m3u8
+#EXTINF-1 tvg-id=6 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV5+.png   group-title=央視, CCTV5+ 體育賽事
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000204503.m3u8
+#EXTINF-1 tvg-id=7 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV6.png   group-title=央視, CCTV-6 電影
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000203303.m3u8
+#EXTINF-1 tvg-id=8 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV7.png   group-title=央視, CCTV-7 軍事
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000510003.m3u8
+#EXTINF-1 tvg-id=9 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV8.png   group-title=央視, CCTV-8 電視劇
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000203903.m3u8
+#EXTINF-1 tvg-id=10 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV9.png   group-title=央視, CCTV-9 紀錄
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000499403.m3u8
+#EXTINF-1 tvg-id=11 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV10.png   group-title=央視, CCTV-10 科教
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000203503.m3u8
+#EXTINF-1 tvg-id=12 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV11.png   group-title=央視, CCTV-11 戲曲
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000204103.m3u8
+#EXTINF-1 tvg-id=13 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV12.png   group-title=央視, CCTV-12 社會與法
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000202603.m3u8
+#EXTINF-1 tvg-id=14 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV13.png   group-title=央視, CCTV-13 新聞
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000204603.m3u8
+#EXTINF-1 tvg-id=15 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV14.png   group-title=央視, CCTV14 少兒
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000204403.m3u8
+#EXTINF-1 tvg-id=16 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV15.png   group-title=央視, CCTV15 音樂
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000205003.m3u8
+#EXTINF-1 tvg-id=17 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV17.png   group-title=央視, CCTV-17 農業
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000204203.m3u8
+#EXTINF-1 tvg-id=20 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV17.png   group-title=央視, CGTN
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2001656803.m3u8
+#	衛視
+#EXTINF-1 tvg-id=30 tvg-logo=http://epg.51zmt.top8000tb1wsbeijing.png   group-title=衛視, 北京衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000272103.m3u8
+#EXTINF-1 tvg-id=27 tvg-logo=http://epg.51zmt.top8000tb1wshunan.png   group-title=衛視, 湖南衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000296203.m3u8
+#EXTINF-1 tvg-id=29 tvg-logo=http://epg.51zmt.top8000tb1wsjiangsu.png   group-title=衛視, 江蘇衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000295603.m3u8
+#EXTINF-1 tvg-id=28 tvg-logo=http://epg.51zmt.top8000tb1wszhejiang.png   group-title=衛視, 浙江衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000295503.m3u8
+#EXTINF-1 tvg-id=31 tvg-logo=http://epg.51zmt.top8000tb1wsdongfang.png   group-title=衛視, 東方衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000292403.m3u8
+#EXTINF-1 tvg-id=32 tvg-logo=http://epg.51zmt.top8000tb1wsanhui.png   group-title=衛視, 安徽衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000298003.m3u8
+#EXTINF-1 tvg-id=34 tvg-logo=http://epg.51zmt.top8000tb1wsshenzhen.png   group-title=衛視, 深圳衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000292203.m3u8
+#EXTINF-1 tvg-id=33 tvg-logo=http://epg.51zmt.top8000tb1wsguangdong.png   group-title=衛視, 廣東衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000292703.m3u8
+#EXTINF-1 tvg-id=46 tvg-logo=http://epg.51zmt.top8000tb1wsheilongjiang.png   group-title=衛視, 黑龍江衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000293903.m3u8
+#EXTINF-1 tvg-id=40 tvg-logo=http://epg.51zmt.top8000tb1wschongqing.png   group-title=衛視, 重慶衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000297803.m3u8
+#EXTINF-1 tvg-id=6001 tvg-logo=http://epg.51zmt.top8000tb1wsliaoning.png   group-title=衛視, 遼寧衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000281303.m3u8
+#EXTINF-1 tvg-id=56 tvg-logo=http://epg.51zmt.top8000tb1wssichuan.png   group-title=衛視, 四川衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000295003.m3u8
+#EXTINF-1 tvg-id=43 tvg-logo=http://epg.51zmt.top8000tb1wsguangxi.png   group-title=衛視, 廣西衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000294203.m3u8
+#EXTINF-1 tvg-id=42 tvg-logo=http://epg.51zmt.top8000tb1wsdongnan.png   group-title=衛視, 福建東南衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000292503.m3u8
+#EXTINF-1 tvg-id=44 tvg-logo=http://epg.51zmt.top8000tb1wsguizhou.png   group-title=衛視, 貴州衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000293303.m3u8
+#EXTINF-1 tvg-id=45 tvg-logo=http://epg.51zmt.top8000tb1wshebei.png   group-title=衛視, 河北衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000293403.m3u8
+#EXTINF-1 tvg-id=47 tvg-logo=http://epg.51zmt.top8000tb1wshenan.png   group-title=衛視, 河南衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000296103.m3u8
+#EXTINF-1 tvg-id=48 tvg-logo=http://epg.51zmt.top8000tb1wshubei.png   group-title=衛視, 湖北衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000294503.m3u8
+#EXTINF-1 tvg-id=50 tvg-logo=http://epg.51zmt.top8000tb1wsjiangxi.png   group-title=衛視, 江西衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000294103.m3u8
+#EXTINF-1 tvg-id=38 tvg-logo=http://epg.51zmt.top8000tb1wsshandong.png   group-title=衛視, 山東衛視
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000294803.m3u8
+#EXTINF-1 tvg-id=37 tvg-logo=http://www.tvyan.comuploadsdianshihainantv.jpg   group-title=衛視, 海南衛視（旅遊衛視）
+http://61.151.179.194tlivecloud-cdn.ysp.cctv.cnysp2000291503.m3u8
+
+################### 央視頻 代理##############################################
+#	央視
+#EXTINF-1 tvg-id=106 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV4k.png   group-title=央視[代理], CCTV4K 超高清
+http://107.148.240.18513164vcctv123.phpid=2000266303.m3u8
+#EXTINF-1 tvg-id=1 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV1.png   group-title=央視[代理], CCTV-1 綜合
+http://107.148.240.18513164vcctv123.phpid=2000210103.m3u8
+#EXTINF-1 tvg-id=2 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV2.png   group-title=央視[代理], CCTV-2 財經
+http://107.148.240.18513164vcctv123.phpid=2000203603.m3u8
+#EXTINF-1 tvg-id=3 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV3.png   group-title=央視[代理], CCTV-3 綜藝
+http://107.148.240.18513164vcctv123.phpid=2000203803.m3u8
+#EXTINF-1 tvg-id=4 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV4.png   group-title=央視[代理], CCTV-4 中文國際
+http://107.148.240.18513164vcctv123.phpid=2000204803.m3u8
+#EXTINF-1 tvg-id=5 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV5.png   group-title=央視[代理], CCTV-5 體育
+http://107.148.240.18513164vcctv123.phpid=2000205103.m3u8
+#EXTINF-1 tvg-id=6 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV5+.png   group-title=央視[代理], CCTV5+ 體育賽事
+http://107.148.240.18513164vcctv123.phpid=2000204503.m3u8
+#EXTINF-1 tvg-id=7 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV6.png   group-title=央視[代理], CCTV-6 電影
+http://107.148.240.18513164vcctv123.phpid=2000203303.m3u8
+#EXTINF-1 tvg-id=8 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV7.png   group-title=央視[代理], CCTV-7 軍事
+http://107.148.240.18513164vcctv123.phpid=2000510003.m3u8
+#EXTINF-1 tvg-id=9 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV8.png   group-title=央視[代理], CCTV-8 電視劇
+http://107.148.240.18513164vcctv123.phpid=2000203903.m3u8
+#EXTINF-1 tvg-id=10 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV9.png   group-title=央視[代理], CCTV-9 紀錄
+http://107.148.240.18513164vcctv123.phpid=2000499403.m3u8
+#EXTINF-1 tvg-id=11 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV10.png   group-title=央視[代理], CCTV-10 科教
+http://107.148.240.18513164vcctv123.phpid=2000203503.m3u8
+#EXTINF-1 tvg-id=12 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV11.png   group-title=央視[代理], CCTV-11 戲曲
+http://107.148.240.18513164vcctv123.phpid=2000204103.m3u8
+#EXTINF-1 tvg-id=13 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV12.png   group-title=央視[代理], CCTV-12 社會與法
+http://107.148.240.18513164vcctv123.phpid=2000202603.m3u8
+#EXTINF-1 tvg-id=14 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV13.png   group-title=央視[代理], CCTV-13 新聞
+http://107.148.240.18513164vcctv123.phpid=2000204603.m3u8
+#EXTINF-1 tvg-id=15 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV14.png   group-title=央視[代理], CCTV14 少兒
+http://107.148.240.18513164vcctv123.phpid=2000204403.m3u8
+#EXTINF-1 tvg-id=16 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV15.png   group-title=央視[代理], CCTV15 音樂
+http://107.148.240.18513164vcctv123.phpid=2000205003.m3u8
+#EXTINF-1 tvg-id=17 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV17.png   group-title=央視[代理], CCTV-17 農業
+http://107.148.240.18513164vcctv123.phpid=2000204203.m3u8
+#EXTINF-1 tvg-id=20 tvg-logo=http://epg.51zmt.top8000tb1CCTVCCTV17.png   group-title=央視[代理], CGTN
+http://107.148.240.18513164vcctv123.phpid=2001656803.m3u8
+#	衛視
+#EXTINF-1 tvg-id=30 tvg-logo=http://epg.51zmt.top8000tb1wsbeijing.png   group-title=衛視[代理], 北京衛視
+http://107.148.240.18513164vcctv123.phpid=2000272103.m3u8
+#EXTINF-1 tvg-id=27 tvg-logo=http://epg.51zmt.top8000tb1wshunan.png   group-title=衛視[代理], 湖南衛視
+http://107.148.240.18513164vcctv123.phpid=2000296203.m3u8
+#EXTINF-1 tvg-id=29 tvg-logo=http://epg.51zmt.top8000tb1wsjiangsu.png   group-title=衛視[代理], 江蘇衛視
+http://107.148.240.18513164vcctv123.phpid=2000295603.m3u8
+#EXTINF-1 tvg-id=28 tvg-logo=http://epg.51zmt.top8000tb1wszhejiang.png   group-title=衛視[代理], 浙江衛視
+http://107.148.240.18513164vcctv123.phpid=2000295503.m3u8
+#EXTINF-1 tvg-id=31 tvg-logo=http://epg.51zmt.top8000tb1wsdongfang.png   group-title=衛視[代理], 東方衛視
+http://107.148.240.18513164vcctv123.phpid=2000292403.m3u8
+#EXTINF-1 tvg-id=32 tvg-logo=http://epg.51zmt.top8000tb1wsanhui.png   group-title=衛視[代理], 安徽衛視
+http://107.148.240.18513164vcctv123.phpid=2000298003.m3u8
+#EXTINF-1 tvg-id=34 tvg-logo=http://epg.51zmt.top8000tb1wsshenzhen.png   group-title=衛視[代理], 深圳衛視
+http://107.148.240.18513164vcctv123.phpid=2000292203.m3u8
+#EXTINF-1 tvg-id=33 tvg-logo=http://epg.51zmt.top8000tb1wsguangdong.png   group-title=衛視[代理], 廣東衛視
+http://107.148.240.18513164vcctv123.phpid=2000292703.m3u8
+#EXTINF-1 tvg-id=46 tvg-logo=http://epg.51zmt.top8000tb1wsheilongjiang.png   group-title=衛視[代理], 黑龍江衛視
+http://107.148.240.18513164vcctv123.phpid=2000293903.m3u8
+#EXTINF-1 tvg-id=40 tvg-logo=http://epg.51zmt.top8000tb1wschongqing.png   group-title=衛視[代理], 重慶衛視
+http://107.148.240.18513164vcctv123.phpid=2000297803.m3u8
+#EXTINF-1 tvg-id=6001 tvg-logo=http://epg.51zmt.top8000tb1wsliaoning.png   group-title=衛視[代理], 遼寧衛視
+http://107.148.240.18513164vcctv123.phpid=2000281303.m3u8
+#EXTINF-1 tvg-id=56 tvg-logo=http://epg.51zmt.top8000tb1wssichuan.png   group-title=衛視[代理], 四川衛視
+http://107.148.240.18513164vcctv123.phpid=2000295003.m3u8
+#EXTINF-1 tvg-id=43 tvg-logo=http://epg.51zmt.top8000tb1wsguangxi.png   group-title=衛視[代理], 廣西衛視
+http://107.148.240.18513164vcctv123.phpid=2000294203.m3u8
+#EXTINF-1 tvg-id=42 tvg-logo=http://epg.51zmt.top8000tb1wsdongnan.png   group-title=衛視[代理], 福建東南衛視
+http://107.148.240.18513164vcctv123.phpid=2000292503.m3u8
+#EXTINF-1 tvg-id=44 tvg-logo=http://epg.51zmt.top8000tb1wsguizhou.png   group-title=衛視[代理], 貴州衛視
+http://107.148.240.18513164vcctv123.phpid=2000293303.m3u8
+#EXTINF-1 tvg-id=45 tvg-logo=http://epg.51zmt.top8000tb1wshebei.png   group-title=衛視[代理], 河北衛視
+http://107.148.240.18513164vcctv123.phpid=2000293403.m3u8
+#EXTINF-1 tvg-id=47 tvg-logo=http://epg.51zmt.top8000tb1wshenan.png   group-title=衛視[代理], 河南衛視
+http://107.148.240.18513164vcctv123.phpid=2000296103.m3u8
+#EXTINF-1 tvg-id=48 tvg-logo=http://epg.51zmt.top8000tb1wshubei.png   group-title=衛視[代理], 湖北衛視
+http://107.148.240.18513164vcctv123.phpid=2000294503.m3u8
+#EXTINF-1 tvg-id=50 tvg-logo=http://epg.51zmt.top8000tb1wsjiangxi.png   group-title=衛視[代理], 江西衛視
+http://107.148.240.18513164vcctv123.phpid=2000294103.m3u8
+#EXTINF-1 tvg-id=38 tvg-logo=http://epg.51zmt.top8000tb1wsshandong.png   group-title=衛視[代理], 山東衛視
+http://107.148.240.18513164vcctv123.phpid=2000294803.m3u8
+#EXTINF-1 tvg-id=37 tvg-logo=http://www.tvyan.comuploadsdianshihainantv.jpg   group-title=衛視[代理], 海南衛視（旅遊衛視）
+http://107.148.240.18513164vcctv123.phpid=2000291503.m3u8
+#####################################################################
+#EXTINF-1 tvg-id=39 tvg-logo=http://epg.51zmt.top8000tb1wstianjin.png   group-title=衛視, 天津衛視
+http://http://dvb.slave.bfgd.com.cn13164playurlplaytype=live&protocol=hls&accesstoken=R5E4518A5U319F104BKB379EBDBI6BEA6CABP8M340BEB4V0Z334B7W15F2ECA15FB435EA&playtoken=ABCDEFGHI&auth=no&rate=sd&programid=4200000096.m3u8
+#EXTINF-1 tvg-id=42 tvg-logo=http://epg.51zmt.top8000tb1wsgansu.png   group-title=衛視, 甘肅衛視
+http://118.123.60.68114LIVESFsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF-1 tvg-id=59 tvg-logo=http://epg.51zmt.top8000tb1wsqinghai.png   group-title=衛視, 青海衛視
+http://116.199.5.528114hlsFsv_chan_hls_se_idx=206&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF-1 tvg-id=54 tvg-logo=http://epg.51zmt.top8000tb1wsshanxi_.png   group-title=衛視, 山西衛視
+http://118.123.60.128114LIVESFsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF-1 tvg-id=58 tvg-logo=http://epg.51zmt.top8000tb1wsyunnan.png   group-title=衛視, 雲南衛視
+http://118.123.60.88114LIVESFsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF-1 tvg-id=55 tvg-logo=http://epg.51zmt.top8000tb1wsshanxi.png   group-title=衛視, 陜西衛視
+http://118.123.60.68114LIVESFsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF-1 tvg-id=51 tvg-logo=http://epg.51zmt.top8000tb1wsjilin.png   group-title=衛視, 吉林衛視
+http://39.135.15.706610PLTV88888888224322122575311000.m3u8IAS
+#EXTINF-1 tvg-id=52 tvg-logo=http://epg.51zmt.top8000tb1wsneimeng.png   group-title=衛視, 內蒙古衛視
+http://118.123.60.128114LIVESFsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF-1 tvg-id=57 tvg-logo=http://epg.51zmt.top8000tb1wsxinjiang.png   group-title=衛視, 新疆衛視
+http://118.123.60.68114LIVESFsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF-1 tvg-id=71 tvg-logo=http://epg.51zmt.top8000tb1wsxizang.png   group-title=衛視, 西藏衛視
+http://118.123.60.88114LIVESFsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+
+############### 綜合		######################################################
+#EXTINF-1 tvg-id= tvg-logo=http://sp2.img.cctvpic.comfmspic202009216cb3eeb029ae49d48b6a7d60b048aa12-30522481-2.jpg group-title=綜合, 《今日说法》 20200921 亲子鉴定风波
+http://hls.cntv.kcdnvip.comasphls20000303000a3default6cb3eeb029ae49d48b6a7d60b048aa122000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp1.img.cctvpic.comfmspic20200920813e96fdb1904b8ca77214740af2ac67-30514061-2.jpg group-title=綜合, 《今日说法》 20200920 疑罪（下）
+http://hls.cntv.kcdnvip.comasphls20000303000a3default813e96fdb1904b8ca77214740af2ac672000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp3.img.cctvpic.comfmspic202009194478dbdf24fd4159b9c93216da1c8692-30505231-0.jpg group-title=綜合, 《今日说法》 20200919 疑罪（上）
+http://hls.cntv.kcdnvip.comasphls20000303000a3default4478dbdf24fd4159b9c93216da1c86922000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp4.img.cctvpic.comfmspic20200918d6d27943a5b64f0388e389ce8dd854cb-30495975-2.jpg group-title=綜合, 《今日说法》 20200918 悬赏通告
+http://hls.cntv.kcdnvip.comasphls20000303000a3defaultd6d27943a5b64f0388e389ce8dd854cb2000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp2.img.cctvpic.comfmspic20200917f6dccd3da50b442aa03c50f43d999e89-30485405-2.jpg group-title=綜合, 《今日说法》 20200917 缉拿“杨二姐”（下）
+http://hls.cntv.kcdnvip.comasphls20000303000a3defaultf6dccd3da50b442aa03c50f43d999e892000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp1.img.cctvpic.comfmspic20200916e3e32ac26e6d403a8db863dee1ca181e-30474711-2.jpg group-title=綜合, 《今日说法》 20200916 缉拿“杨二姐”（上）
+http://hls.cntv.kcdnvip.comasphls20000303000a3defaulte3e32ac26e6d403a8db863dee1ca181e2000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp5.img.cctvpic.comfmspic2020091557974135193741ad9dd79a72ed9d83bb-30464407-2.jpg group-title=綜合, 《今日说法》 20200915 阻击劫匪
+http://hls.cntv.kcdnvip.comasphls20000303000a3default57974135193741ad9dd79a72ed9d83bb2000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp5.img.cctvpic.comfmspic2020091476b8a240575a468490eb5e670d494a07-30453857-2.jpg group-title=綜合, 《今日说法》 20200914 被遮挡的摄像头
+http://hls.cntv.kcdnvip.comasphls20000303000a3default76b8a240575a468490eb5e670d494a072000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp5.img.cctvpic.comfmspic202009130e313e01091d446fbe7c44e40636115d-30444299-2.jpg group-title=綜合, 《今日说法》 20200913 勘查从金店开始
+http://hls.cntv.kcdnvip.comasphls20000303000a3default0e313e01091d446fbe7c44e40636115d2000.m3u8
+#EXTINF-1 tvg-id= tvg-logo=http://sp5.img.cctvpic.comfmspic20200911bd6bda74880b4d37a4a6d8278a7587bd-30425037-2.jpg group-title=綜合, 《今日说法》 20200911 千里执行
+http://hls.cntv.kcdnvip.comasphls20000303000a3defaultbd6bda74880b4d37a4a6d8278a7587bd2000.m3u8
+
+#EXTINF-1 tvg-id= tvg-logo=   group-title=綜合, [全场] 许巍2015“此时此刻”巡回演唱会
+http://splay.letv.lecloud.yilans.netdatale27034331.m3u8
+#EXTINF-1 tvg-id= tvg-logo=   group-title=綜合, 哪吒之魔童降世 HD
+http://sbilibili.com-h-bilibili.com2019101010062_29a5a26c1000khlsindex.m3u8
+#EXTINF-1 tvg-id= tvg-logo=   group-title=綜合, 环太平洋2：雷霆再起原声版
+http://play.letv.lecloud.yilans.netdatale31518291.m3u8
+#EXTINF-1 tvg-id= tvg-logo=   group-title=綜合, 一九四二
+http://splay.letv.lecloud.yilans.netdatale1890927.m3u8
+#EXTINF-1 tvg-id= tvg-logo=   group-title=綜合, 守边人
+http://sbili.meijuzuida.com2019102121690_73698f2e1000khlsindex.m3u8
