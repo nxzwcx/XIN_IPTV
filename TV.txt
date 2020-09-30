@@ -61,25 +61,13 @@ http://112.17.40.145/PLTV/88888888/224/3221226181/index.m3u8
 http://112.17.40.145/PLTV/88888888/224/3221226186/index.m3u8
 #EXTINF:-1 group-title="卫视",育科技HD
 http://112.17.40.145/PLTV/88888888/224/3221226414/index.m3u8
-#EXTINF:-1 group-title="宁夏",====== 宁夏频道 ======
-http://2/2.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏卫视
 http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=cd7aee341601099306
 #EXTINF:-1 group-title="宁夏",宁夏公共
 http://stream.nxtv.com.cn/ggpd/sd/live.m3u8?_upt=634823b71601099602
 #EXTINF:-1 group-title="宁夏",宁夏经济
 http://stream.nxtv.com.cn/jjpd/sd/live.m3u8?_upt=1579e6461601099712
-#EXTINF:-1 group-title="大学",====== 大学频道 ======
-http://5/5.m3u8
 #EXTINF:-1 group-title="大学",清华大学电视台
 http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
-#EXTINF:-1 group-title="港澳",====== 港澳频道 ======
-http://6/6.m3u8
-#EXTINF:-1 group-title="港澳",凤凰卫视中文台
-http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 group-title="港澳",HKS卫视 高清
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳",TVB 明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
 #EXTINF:-1 group-title="MP3",王菲-传奇
 http://nxzwcx.github.io/XIN_IPTV/%E7%8E%8B%E8%8F%B2%20-%20%E4%BC%A0%E5%A5%87.mp3
