@@ -69,6 +69,8 @@ http://stream.nxtv.com.cn/ggpd/sd/live.m3u8?_upt=634823b71601099602
 http://stream.nxtv.com.cn/jjpd/sd/live.m3u8?_upt=1579e6461601099712
 #EXTINF:-1 group-title="大学",清华大学电视台
 http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
+#EXTINF:-1 group-title="MV",知否
+https://rz552n.jomodns.com/r/bdcdncmn-nm.inter.71edge.com/videos/other/20200904/6c/3f/36c293dc1b33d078ab5f325a40d1a661.f4v
 #EXTINF:-1 group-title="MP3",王菲-传奇
 http://nxzwcx.github.io/XIN_IPTV/%E7%8E%8B%E8%8F%B2%20-%20%E4%BC%A0%E5%A5%87.mp3
 #EXTINF:-1 group-title="MP3",胡夏&郁可唯 - 知否知否-《知否知否应是绿肥红瘦》电视剧主题曲
