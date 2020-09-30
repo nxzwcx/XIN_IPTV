@@ -72,4 +72,4 @@ http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
 #EXTINF:-1 group-title="MP3",王菲-传奇
 http://nxzwcx.github.io/XIN_IPTV/%E7%8E%8B%E8%8F%B2%20-%20%E4%BC%A0%E5%A5%87.mp3
 #EXTINF:-1 group-title="MP3",胡夏&郁可唯 - 知否知否-《知否知否应是绿肥红瘦》电视剧主题曲
-http://nxzwcx.github.io/XIN_IPTV/%E7%9F%A5%E5%90%A6.mp3
+http://nxzwcx.github.io/XIN_IPTV/Src/MP3/%E7%9F%A5%E5%90%A6.mp3
