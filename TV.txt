@@ -1,50 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-2
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV-3
+#EXTINF:-1 group-title="央视",CCTV1
+http://112.17.40.145/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV2
+http://112.17.40.145/PLTV/88888888/224/3221226468/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV3
 http://112.17.40.145/PLTV/88888888/224/3221226431/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV-4
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV4
+http://112.17.40.145/PLTV/88888888/224/3221226732/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV5
 http://112.17.40.145/PLTV/88888888/224/3221226328/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV-5+
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV5+
+http://112.17.40.145/PLTV/88888888/224/3221226166/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV6
 http://112.17.40.145/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV7
 http://112.17.40.145/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视",CCTV8
 http://112.17.40.145/PLTV/88888888/224/3221226493/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9
+#EXTINF:-1 group-title="央视",CCTV9
 http://112.17.40.145/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-10科教
+#EXTINF:-1 group-title="央视",CCTV10
 http://112.17.40.145/PLTV/88888888/224/3221226498/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-11
+#EXTINF:-1 group-title="央视",CCTV11
 http://112.17.40.145/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12
+#EXTINF:-1 group-title="央视",CCTV12
 http://112.17.40.145/PLTV/88888888/224/3221226520/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14
+#EXTINF:-1 group-title="央视",CCTV14
 http://112.17.40.145/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15音乐
+#EXTINF:-1 group-title="央视",CCTV15
 http://112.17.40.145/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16-奥运频道
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 group-title="央视",央视高尔夫
 http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-阿语频道
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000233.m3u8
+#EXTINF:-1 group-title="央视",CCTV-法语频道
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000230.m3u8
+#EXTINF:-1 group-title="央视",CCTV-俄语频道
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000232.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8
+http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视",湖南卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8
+http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视",深圳卫视高清
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视",厦门卫视高清
+http://140.207.241.2:8080/live/program/live/xmws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视",东南卫视高清
+http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视",宁夏卫视高清
+http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视",黑莓电竞
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226724/index.m3u8
 #EXTINF:-1 group-title="卫视",黑莓动画
 http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
 #EXTINF:-1 group-title="卫视",黑莓电影
@@ -58,11 +72,17 @@ http://112.17.40.145/PLTV/88888888/224/3221226186/index.m3u8
 #EXTINF:-1 group-title="卫视",育科技HD
 http://112.17.40.145/PLTV/88888888/224/3221226414/index.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏卫视
-http://stream.nxtv.com.cn/wspd/sd/live.m3u8
+http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏公共
-http://stream.nxtv.com.cn/ggpd/sd/live.m3u8
+http://stream.nxtv.com.cn/ggpd/sd/live.m3u8?_upt=87aff65a1601968642
 #EXTINF:-1 group-title="宁夏",宁夏经济
-http://stream.nxtv.com.cn/jjpd/sd/live.m3u8
+http://stream.nxtv.com.cn/jjpd/sd/live.m3u8?_upt=59687c0e1601968812
+#EXTINF:-1 group-title="宁夏",宁夏影视
+http://stream.nxtv.com.cn/yspd/playlist.m3u8?_upt=0f5c0a5a1601968391
+#EXTINF:-1 group-title="宁夏",宁夏少儿
+http://stream.nxtv.com.cn/sepd/playlist.m3u8?_upt=87921c491601969208
+#EXTINF:-1 group-title="宁夏",宁夏直播频道
+http://stream2.nxtv.com.cn/live/sd/live.m3u8?_upt=f4f854f21601968863
 #EXTINF:-1 group-title="大学",清华大学电视台
 http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
 #EXTINF:-1 group-title="MV",知否
