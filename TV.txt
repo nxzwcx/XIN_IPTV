@@ -52,7 +52,7 @@ http://125.210.152.18:9090/live/CHCGQDY.m3u8
 #EXTINF:-1,group-title="央视",CHC家庭影院
 http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 #EXTINF:-1,group-title="网络直播",斗鱼直播ID
-url：117.157.236.134:8080/live/2360132rMp3QealG.flv?wsAuth=354af19720559d9849bf49a1cee14f25&token=app-android1-35838639-2360132-522183d3dbb90ebceed632e69966fe3609aa425dd69b801a&logo=0&expire=0&did=538812ac0c645995b27fd7e080205111&ver=v6.3.4&channel=31&pt=1&st=0&vhost=play1&origin=all&mix=0&isp=cmcc
+http://117.157.236.134:8080/live/2360132rMp3QealG.flv?wsAuth=354af19720559d9849bf49a1cee14f25&token=app-android1-35838639-2360132-522183d3dbb90ebceed632e69966fe3609aa425dd69b801a&logo=0&expire=0&did=538812ac0c645995b27fd7e080205111&ver=v6.3.4&channel=31&pt=1&st=0&vhost=play1&origin=all&mix=0&isp=cmcc
 #EXTINF:-1,group-title="4K频道",纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视高清
@@ -97,7 +97,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1,group-title="港澳频道",发明[1920*1080]
 http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
-
 #EXTINF:-1 group-title="宁夏",宁夏卫视
 http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏公共
@@ -114,7 +113,7 @@ http://stream2.nxtv.com.cn/live/sd/live.m3u8?_upt=f4f854f21601968863
 http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
 #EXTINF:-1 group-title="MV",知否
 https://vt1.doubanio.com/202009301655/5fb09785d0847a777fdaa84636985916/view/movie/M/402410161.mp4
-#EXTINF:-1 group-title="MP3",王菲-传奇
+#EXTINF:-1 group-title="MV",王菲-传奇
 http://nxzwcx.github.io/XIN_IPTV/%E7%8E%8B%E8%8F%B2%20-%20%E4%BC%A0%E5%A5%87.mp3
-#EXTINF:-1 group-title="MP3",胡夏&郁可唯 - 知否知否-《知否知否应是绿肥红瘦》电视剧主题曲
+#EXTINF:-1 group-title="MV",胡夏&郁可唯 - 知否知否-《知否知否应是绿肥红瘦》电视剧主题曲
 http://nxzwcx.github.io/XIN_IPTV/Src/MP3/%E7%9F%A5%E5%90%A6.mp3
