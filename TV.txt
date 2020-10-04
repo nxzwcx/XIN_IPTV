@@ -51,6 +51,8 @@ http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 http://125.210.152.18:9090/live/CHCGQDY.m3u8
 #EXTINF:-1,group-title="央视",CHC家庭影院
 http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
+#EXTINF:-1,group-title="网络直播",斗鱼直播ID
+url：117.157.236.134:8080/live/2360132rMp3QealG.flv?wsAuth=354af19720559d9849bf49a1cee14f25&token=app-android1-35838639-2360132-522183d3dbb90ebceed632e69966fe3609aa425dd69b801a&logo=0&expire=0&did=538812ac0c645995b27fd7e080205111&ver=v6.3.4&channel=31&pt=1&st=0&vhost=play1&origin=all&mix=0&isp=cmcc
 #EXTINF:-1,group-title="4K频道",纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视高清
@@ -71,20 +73,30 @@ http://140.207.241.2:8080/live/program/live/xmws/1300000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视",宁夏卫视高清
 http://39.134.185.234/PLTV/88888888/224/3221226209/index.m3u8
-#EXTINF:-1 group-title="卫视",黑莓电竞
+#EXTINF:-1 group-title="其他频道",黑莓电竞
 http://112.17.40.140/PLTV/88888888/224/3221226724/index.m3u8
-#EXTINF:-1 group-title="卫视",黑莓动画
+#EXTINF:-1 group-title="其他频道",黑莓动画
 http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
-#EXTINF:-1 group-title="卫视",黑莓电影
+#EXTINF:-1 group-title="其他频道",黑莓电影
 http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-#EXTINF:-1 group-title="卫视",Baby Talent高清
+#EXTINF:-1 group-title="其他频道",Baby Talent高清
 http://112.17.40.145/PLTV/88888888/224/3221226142/index.m3u8
-#EXTINF:-1 group-title="卫视",杭州文化
+#EXTINF:-1 group-title="其他频道",杭州文化
 http://112.17.40.145/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 group-title="卫视",杭州影视
+#EXTINF:-1 group-title="其他频道",杭州影视
 http://112.17.40.145/PLTV/88888888/224/3221226186/index.m3u8
-#EXTINF:-1 group-title="卫视",育科技HD
+#EXTINF:-1 group-title="其他频道",育科技HD
 http://112.17.40.145/PLTV/88888888/224/3221226414/index.m3u8
+#EXTINF:-1,group-title="其他频道",游戏风云[1920*1080]
+http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
+#EXTINF:-1,group-title="海外频道",探索[1920*1080]
+http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
+#EXTINF:-1,group-title="海外频道",求索[1920*1080]
+http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1,group-title="海外频道",发明[1920*1080]
+http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1,group-title="港澳频道",发明[1920*1080]
+http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏卫视
 http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏公共
